@@ -1,0 +1,13 @@
+{
+  "name": "Hello-GraphQl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kamrulthedev/Hello-GraphQl.git",
+  "author": "Kamrulthedev <kamrulthedevR@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.11.3",
+    "graphql": "^16.10.0"
+  }
+}
