@@ -13,5 +13,10 @@
   "devDependencies": {
     "@types/node": "^22.13.12",
     "typescript": "^5.8.2"
+  },
+  "type": "module",
+  "scripts": {
+    "compile": "tsc",
+    "start": "npm run compile && node ./dist/index.js"
   }
 }
