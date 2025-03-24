@@ -16,10 +16,12 @@ const books = [
     {
         title: 'The Awakening',
         author: 'Kate Chopin',
+        discription: "Kamrul Hassan"
     },
     {
         title: 'City of Glass',
         author: 'Paul Auster',
+        discription: "JInuk"
     },
 ];
 
