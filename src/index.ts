@@ -17,7 +17,8 @@ const books = [
     {
         title: 'The Awakening',
         author: 'Kate Chopin',
-        discription: "Kamrul Hassan"
+        discription: "Kamrul Hassan",
+        name: "Kamrul Hassan"
     },
     {
         title: 'City of Glass',
