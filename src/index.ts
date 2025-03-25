@@ -23,7 +23,8 @@ const books = [
     {
         title: 'City of Glass',
         author: 'Paul Auster',
-        discription: "JInuk"
+        discription: "JInuk",
+          name : "Kamrul Hassan Jinuk"
     },
 ];
 
