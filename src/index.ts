@@ -15,7 +15,7 @@ categoryId : String
 
 
   type Query {
-
+     products : [Product]
   }
 `;
 
