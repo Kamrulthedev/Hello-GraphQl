@@ -1,5 +1,6 @@
 import { ApolloServer } from '@apollo/server';
 import { startStandaloneServer } from '@apollo/server/standalone';
+import { db } from './db';
 
 const typeDefs = `#graphql
 
@@ -23,7 +24,7 @@ categoryId : String
 
 const resolvers = {
     Query: {
-
+        products: () => db.products
     },
 };
 
