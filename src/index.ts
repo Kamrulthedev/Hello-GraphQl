@@ -3,39 +3,27 @@ import { startStandaloneServer } from '@apollo/server/standalone';
 
 const typeDefs = `#graphql
 
-  type Book {
-    title: String
-    author: String
-    discription : String
-    name : String
-    age : Int
-  }
+type Product {
+id : ID!
+name : String
+image : String
+description : String
+price : Float
+quantity : Int
+categoryId : String
+}
+
+
   type Query {
-    books: [Book]
+
   }
 `;
 
-const books = [
-    {
-        title: 'The Awakening',
-        author: 'Kate Chopin',
-        discription: "Kamrul Hassan",
-        name: "Kamrul Hassan",
-        age : 98
-    },
-    {
-        title: 'City of Glass',
-        author: 'Paul Auster',
-        discription: "JInuk",
-        name: "Kamrul Hassan Jinuk",
-        age : 68
-    },
-];
 
 
 const resolvers = {
     Query: {
-        books: () => books,
+
     },
 };
 
