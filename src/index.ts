@@ -7,6 +7,7 @@ const typeDefs = `#graphql
     title: String
     author: String
     discription : String
+    name : String
   }
   type Query {
     books: [Book]
