@@ -16,11 +16,13 @@ categoryId : String
 
   type Query {
      products : [Product]
+     product(productId : ID!) : Product
   }
 `;
 const resolvers = {
     Query: {
-        products: () => db.products
+        products: () => db.products,
+        prodcut: () = {}
     },
 };
 const server = new ApolloServer({
