@@ -25,7 +25,8 @@ const books = [
         title: 'City of Glass',
         author: 'Paul Auster',
         discription: "JInuk",
-          name : "Kamrul Hassan Jinuk"
+        name: "Kamrul Hassan Jinuk",
+        age : 68
     },
 ];
 
