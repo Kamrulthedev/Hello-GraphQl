@@ -14,15 +14,16 @@ categoryId : String
 }
 
 
-  type Query {
-     products : [Product]
-     product(productId : ID!) : Product
-  }
+ type Query {
+  products: [Product]
+  product(id: ID!): Product
+}
+
 `;
 const resolvers = {
     Query: {
         products: () => db.products,
-        prodcut: () => db.products
+        product: (_, { id }) => db.products.find((p) => p.id === id),
     },
 };
 const server = new ApolloServer({
