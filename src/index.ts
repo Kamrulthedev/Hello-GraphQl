@@ -26,9 +26,7 @@ categoryId : String
 const resolvers = {
     Query: {
         products: () => db.products,
-        prodcut : () = {
-            
-        }
+        prodcut : () => db.products
     },
 };
 
