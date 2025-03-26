@@ -17,9 +17,8 @@ categoryId : String
 
  type Query {
   products: [Product]
-  product(id: ID!): Product
+  product(productId: ID!): Product
 }
-
 `;
 
 
@@ -27,9 +26,13 @@ categoryId : String
 const resolvers = {
     Query: {
         products: () => db.products,
-        product: (_, { id }) => db.products.find((p) => p.id === id),
+        product: (parent, args) => {
+            console.log(parent, args); // Logging for debugging
+            return db.products.find((p) => p.id === args.productId); // Return the product
+        },
     },
 };
+
 
 
 
