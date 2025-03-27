@@ -12,13 +12,10 @@ price : Float
 quantity : Int
 categoryId : String
 }
-
-
  type Query {
   products: [Product]
   product(productId: ID!): Product
-}
-`;
+}`;
 const resolvers = {
     Query: {
         products: () => db.products,

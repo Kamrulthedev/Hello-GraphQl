@@ -13,27 +13,19 @@ price : Float
 quantity : Int
 categoryId : String
 }
-
-
  type Query {
   products: [Product]
   product(productId: ID!): Product
-}
-`;
-
-
+}`;
 
 const resolvers = {
     Query: {
         products: () => db.products,
         product: (parent, args, context) => {
-           console.log(parent, args, context)
+            console.log(parent, args, context)
         },
     },
 };
-
-
-
 
 
 const server = new ApolloServer({
