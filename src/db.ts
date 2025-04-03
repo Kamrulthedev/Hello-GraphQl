@@ -344,7 +344,7 @@ const reviews = [
     },
     {
         "id" : "kajf44o53344",
-        "review" :  ""
+        "review" :  "Kamrul Hassan"
     }
 ]
 
