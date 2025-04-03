@@ -351,7 +351,8 @@ const reviews = [
     },
     {
         "id" : "33aka445Uka4344049303020k044",
-        "review" : "Kamrul Hassan 3"
+        "review" : "Kamrul Hassan 3",
+        "raiting" : 4.05
     }
 ]
 
