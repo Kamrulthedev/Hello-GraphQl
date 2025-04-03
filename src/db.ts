@@ -341,6 +341,10 @@ const reviews = [
         "rating": 4.5,
         "date": "2023-10-24T23:44:24.253+06:00",
         "productId": "3f88696b-c459-4723-8bfc-1068d648df95"
+    },
+    {
+        "id" : "kajf44o53344",
+        "review" :  ""
     }
 ]
 
