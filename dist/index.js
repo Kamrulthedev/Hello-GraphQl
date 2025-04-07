@@ -1,21 +1,7 @@
 import { ApolloServer } from '@apollo/server';
 import { startStandaloneServer } from '@apollo/server/standalone';
 import { db } from './db.js';
-const typeDefs = `#graphql
-
-type Product {
-id : ID!
-name : String
-image : String
-description : String
-price : Float
-quantity : Int
-categoryId : String
-}
- type Query {
-  products: [Product]
-  product(productId: ID!): Product
-}`;
+import { typeDefs } from './gql/schema/index.js';
 const resolvers = {
     Query: {
         products: () => db.products,
