@@ -354,7 +354,8 @@ const reviews = [
         "review" : "Kamrul Hassan 3",
         "raiting" : 4.05,
         "date" : "2025-1-23",
-        "prodctId" : "eoejlk484893"
+        "prodctId" : "eoejlk484893",
+        "name" : "Kamrul hassaan"
     }
 ]
 
