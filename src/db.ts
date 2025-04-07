@@ -341,22 +341,8 @@ const reviews = [
         "rating": 4.5,
         "date": "2023-10-24T23:44:24.253+06:00",
         "productId": "3f88696b-c459-4723-8bfc-1068d648df95"
-    },
-    {
-        "id" : "kajf44o53344",
-        "review" :  "Kamrul Hassan",
-        "rating" : 5.00,
-        "date" : "2025-10-23T25:44.354+06:00",
-        "productId" : "830399jskdjlkd"
-    },
-    {
-        "id" : "33aka445Uka4344049303020k044",
-        "review" : "Kamrul Hassan 3",
-        "raiting" : 4.05,
-        "date" : "2025-1-23",
-        "prodctId" : "eoejlk484893",
-        "name" : "Kamrul hassaan"
     }
+ 
 ]
 
 
