@@ -344,7 +344,9 @@ const reviews = [
     },
     {
         "id" : "3344kdajltn",
-        "review":"Satisfied with my purchase.will buy again!"
+        "review":"Satisfied with my purchase.will buy again!",
+        "rating":4.6
+        
     }
 
 ]
