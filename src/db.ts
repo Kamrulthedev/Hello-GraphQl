@@ -358,7 +358,8 @@ const reviews = [
     },
     {
         "id":"ekjlkja",
-        "review":"Kamrul"
+        "review":"Kamrul",
+        "rating":4.6
     }
 
 ]
