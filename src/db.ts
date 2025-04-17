@@ -365,7 +365,8 @@ const reviews = [
     },
     {
         "id":"lkajdioaekljad",
-        "review":"hassan"
+        "review":"hassan",
+        "reating":"5.5"
     }
 
 ]
