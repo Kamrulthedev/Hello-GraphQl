@@ -380,7 +380,8 @@ const reviews = [
     {
         "id":"kaldklfjkladf",
         "review":"Kamrul Hassan",
-        "reating":4.5
+        "reating":4.5,
+        "date":"2024-23-05"
     }
 
 
