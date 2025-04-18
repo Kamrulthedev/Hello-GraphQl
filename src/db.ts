@@ -379,7 +379,8 @@ const reviews = [
     },
     {
         "id":"kaldklfjkladf",
-        "review":"Kamrul Hassan"
+        "review":"Kamrul Hassan",
+        "reating":4.5
     }
 
 
