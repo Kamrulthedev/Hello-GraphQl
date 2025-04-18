@@ -384,10 +384,6 @@ const reviews = [
         "date":"2024-23-05",
         "productId":"alkdfjlkdfa"
     }
-
-
-
-
 ]
 
 
