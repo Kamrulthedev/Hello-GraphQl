@@ -295,7 +295,7 @@ const reviews = [
     },
     {
         "id":"kalkdfklklfjekljdflkja",
-        "review":""
+        "review":"The coffee table complements our decor nicely"
     },
     {
         "id": "99e9788e-2e6e-4469-8803-012c118c5f69",
