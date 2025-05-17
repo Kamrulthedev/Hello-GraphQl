@@ -294,9 +294,9 @@ const reviews = [
         "productId": "8cb7eff6-90c1-4710-a11b-e42d5767dd95"
     },
     {
-        "id":"kalkdfklklfjekljdflkja",
-        "review":"The coffee table complements our decor nicely",
-        "rating":"4.6"
+        "id": "kalkdfklklfjekljdflkja",
+        "review": "The coffee table complements our decor nicely",
+        "rating": "4.6"
     },
     {
         "id": "99e9788e-2e6e-4469-8803-012c118c5f69",
