@@ -291,6 +291,11 @@ const reviews = [
         "productId": "8cb7eff6-90c1-4710-a11b-e42d5767dd95"
     },
     {
+        "id": "kalkdfklklfjekljdflkja",
+        "review": "The coffee table complements our decor nicely",
+        "rating": "4.6"
+    },
+    {
         "id": "99e9788e-2e6e-4469-8803-012c118c5f69",
         "review": "Comfortable cycling helmet for long rides.",
         "rating": 4,
@@ -338,6 +343,16 @@ const reviews = [
         "rating": 4.5,
         "date": "2023-10-24T23:44:24.253+06:00",
         "productId": "3f88696b-c459-4723-8bfc-1068d648df95"
+    },
+    {
+        "id": "2ca704cf-6d7d-4924-8580-74138e9e9ddr",
+        "review": "Kamrul-hassan with my book insoreance company",
+        "rating": 4.5,
+        "date": "2024-10-23T23:44:24.253+06:00",
+        "productId": "3f88696b-c459-4723-8bfc-1068d648dfeaad"
+    },
+    {
+        "id": "2ca704cf-6d7d-4924-8580-74138e9e9ddr",
     }
 ];
 export const db = {
