@@ -353,41 +353,6 @@ const reviews = [
         "rating":4.6,
         "date":"2023-10-24T23:44.253+06:00",
         "productiId":"3f8869b-c45"
-    },
-    {
-        "id":"elkjdlkjalkjdflk",
-        "review":"Kamrul",
-        "rating":3.8,
-        "date":"2025-23-23",
-        "prodcutId":"elkjlalkdklf"
-    },
-    {
-        "id":"ekjlkja",
-        "review":"Kamrul",
-        "rating":4.6,
-        "date":"2024-23-3",
-        "productId":"kaljldkjfdda"
-    },
-    {
-        "id":"lkajdioaekljad",
-        "review":"hassan",
-        "reating":"5.5",
-        "date":"2/24",
-        "productId":"kjadfadfadfadfadfa"
-    },
-    {
-        "id":"kldjadfaad",
-        "review":"kamrul",
-        "reaing":"commit",
-        "date":"2024-3",
-        "productId":"alkdfadfa"
-    },
-    {
-        "id":"kaldklfjkladf",
-        "review":"Kamrul Hassan",
-        "reating":4.5,
-        "date":"2024-23-05",
-        "productId":"alkdfjlkdfa"
     }
 ]
 
