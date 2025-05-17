@@ -346,13 +346,6 @@ const reviews = [
         "rating": 4.5,
         "date": "2023-10-24T23:44:24.253+06:00",
         "productId": "3f88696b-c459-4723-8bfc-1068d648df95"
-    },
-    {
-        "id" : "3344kdajltn",
-        "review":"Satisfied with my purchase.will buy again!",
-        "rating":4.6,
-        "date":"2023-10-24T23:44.253+06:00",
-        "productiId":"3f8869b-c45"
     }
 ]
 
