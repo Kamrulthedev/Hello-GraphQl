@@ -199,7 +199,8 @@ const categories = [
         "name": "Furniture"
     },
     {
-        "id":"97b84bd6-c11b-435f-8943-17dc97694455"
+        "id":"97b84bd6-c11b-435f-8943-17dc97694455",
+        "name":"computers"
     }
 ];
 
