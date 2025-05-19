@@ -203,7 +203,8 @@ const categories = [
         "name":"computers"
     },
     {
-        "id":"2ca704cf-6d7d-4924-8580-74138e9e9ddb878"
+        "id":"2ca704cf-6d7d-4924-8580-74138e9e9ddb878",
+        "name":"Tabs"
     }
 ];
 
