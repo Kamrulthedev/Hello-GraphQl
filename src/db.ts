@@ -207,7 +207,8 @@ const categories = [
         "name":"Tabs"
     },
     {
-        "id":"97b84bd6-c11b-435f-8943-17dc97694459"
+        "id":"97b84bd6-c11b-435f-8943-17dc97694459",
+        "name":"Books"
     }
 ];
 
