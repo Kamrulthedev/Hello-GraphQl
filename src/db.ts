@@ -205,6 +205,9 @@ const categories = [
     {
         "id":"2ca704cf-6d7d-4924-8580-74138e9e9ddb878",
         "name":"Tabs"
+    },
+    {
+        "id":"97b84bd6-c11b-435f-8943-17dc97694459"
     }
 ];
 
