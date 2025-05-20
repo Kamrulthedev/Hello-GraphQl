@@ -183,7 +183,8 @@ const products = [
         "id": "6b1e0518-8e0d-48de-9c99-61251900ec187",
         "name":"Computer Market",
         "image":"computer-market-image.png",
-        "description":"Computer Market to bow your commit"
+        "description":"Computer Market to bow your commit",
+        "price":60.99
     }
 ];
 
