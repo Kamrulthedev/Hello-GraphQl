@@ -186,7 +186,8 @@ const products = [
         "description":"Computer Market to bow your commit",
         "price":60.99,
         "quantity":30,
-        "onStock":true
+        "onStock":true,
+        "categoryId":"6b1e0518-8e0d-48de-9c99-61251900ec18"
     }
 ];
 
