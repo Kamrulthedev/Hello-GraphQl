@@ -185,7 +185,8 @@ const products = [
         "image":"computer-market-image.png",
         "description":"Computer Market to bow your commit",
         "price":60.99,
-        "quantity":30
+        "quantity":30,
+        "onStock":true
     }
 ];
 
