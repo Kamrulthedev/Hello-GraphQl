@@ -178,6 +178,9 @@ const products = [
         "quantity": 20,
         "onStock": true,
         "categoryId": "97b84bd6-c11b-435f-8943-17dc97694451"
+    },
+    {
+        "id": "6b1e0518-8e0d-48de-9c99-61251900ec187"
     }
 ];
 
