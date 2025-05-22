@@ -190,7 +190,8 @@ const products = [
         "categoryId":"6b1e0518-8e0d-48de-9c99-61251900ec18"
     },
     {
-        "id":"6b1e0518-8e0d-48de-9c99-61251900ec187"
+        "id":"6b1e0518-8e0d-48de-9c99-61251900ec187",
+        "name":"Note Book"
     }
 ];
 
