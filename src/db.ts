@@ -195,7 +195,8 @@ const products = [
         "image":"note-book.image",
         "description":"Note Book",
         "price":40.60,
-        "quantity":60
+        "quantity":60,
+        "onStock":true
     }
 ];
 
