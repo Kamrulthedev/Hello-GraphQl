@@ -233,6 +233,9 @@ const categories = [
     {
         "id":"97b84bd6-c11b-435f-8943-17dc97694450",
         "name":"Laptops"
+    },
+    {
+        "id":""
     }
 ];
 
