@@ -18,4 +18,5 @@ name : String
   products: [Product]
   product(productId: ID!): Product
   categories : [Category]
+  category(categoryId : ID!): Category
 }`;
