@@ -178,6 +178,26 @@ const products = [
         "quantity": 20,
         "onStock": true,
         "categoryId": "97b84bd6-c11b-435f-8943-17dc97694451"
+    },
+    {
+        "id": "6b1e0518-8e0d-48de-9c99-61251900ec187",
+        "name": "Computer Market",
+        "image": "computer-market-image.png",
+        "description": "Computer Market to bow your commit",
+        "price": 60.99,
+        "quantity": 30,
+        "onStock": true,
+        "categoryId": "6b1e0518-8e0d-48de-9c99-61251900ec18"
+    },
+    {
+        "id": "6b1e0518-8e0d-48de-9c99-61251900ec187",
+        "name": "Note Book",
+        "image": "note-book.image",
+        "description": "Note Book",
+        "price": 40.60,
+        "quantity": 60,
+        "onStock": true,
+        "categoruId": "6b1e0518-8e0d-48de-9c99-61251900ec134"
     }
 ];
 const categories = [
@@ -196,6 +216,30 @@ const categories = [
     {
         "id": "97b84bd6-c11b-435f-8943-17dc97694451",
         "name": "Furniture"
+    },
+    {
+        "id": "97b84bd6-c11b-435f-8943-17dc97694455",
+        "name": "computers"
+    },
+    {
+        "id": "2ca704cf-6d7d-4924-8580-74138e9e9ddb878",
+        "name": "Tabs"
+    },
+    {
+        "id": "97b84bd6-c11b-435f-8943-17dc97694459",
+        "name": "Books"
+    },
+    {
+        "id": "97b84bd6-c11b-435f-8943-17dc97694450",
+        "name": "Laptops"
+    },
+    {
+        "id": "97b84bd6-c11b-435f-8943-17dc97694450",
+        "name": "Blabs"
+    },
+    {
+        "id": "2a089dca-d882-4305-9e25-d1dfeb93fd3",
+        "name": "Fans"
     }
 ];
 const reviews = [
@@ -205,6 +249,13 @@ const reviews = [
         "rating": 4.5,
         "date": "2023-10-20T23:44:24.245+06:00",
         "productId": "2a089dca-d882-4305-9e25-d1dfeb93fd12"
+    },
+    {
+        "id": "97b84bd6-c11b-435f-8943-17dc976943450",
+        "review": "Great Basketball For Playing with friends in the school!",
+        "rating": 4.5,
+        "date": "2023-10-20T23:44:24.245+06:00",
+        "productId": "2a089dca-d882-4305-9e25-d1dfeb93fd373"
     },
     {
         "id": "58db016e-0293-49cc-bf42-9384f8bccaef",
@@ -357,6 +408,13 @@ const reviews = [
         "rating": 4.5,
         "date": "2023-10-24T23:44:24.253+06:00",
         "productId": "2ca704cf-6d7d-4924-8580-74138e9e9ddbrre"
+    },
+    {
+        "id": "2ca704cf-6d7d-4924-8580-74138e9e9ddrr",
+        "review": "Watching for file change in the forget",
+        "reting": 4.5,
+        "date": "2023-10-24T23:44:24.253+06:00",
+        "productId": "2ca704cf-6d7d-4924-8580-74138e9e9ddbrres"
     }
 ];
 export const db = {
