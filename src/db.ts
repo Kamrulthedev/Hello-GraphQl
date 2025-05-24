@@ -239,7 +239,8 @@ const categories = [
         "name":"Blabs"
     },
     {
-        "id":"2a089dca-d882-4305-9e25-d1dfeb93fd3"
+        "id":"2a089dca-d882-4305-9e25-d1dfeb93fd3",
+        "name":"Fans"
     }
 ];
 
