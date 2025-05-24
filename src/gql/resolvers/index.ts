@@ -8,6 +8,7 @@ export const resolvers = {
             const result = db.products.find(pd =>pd.id === args.productId)
             return result
         },
+        categories: () =>db.categories
     },
     
 };
