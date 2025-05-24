@@ -8,8 +8,9 @@ export const resolvers = {
         },
         categories: () => db.categories,
         category: (parent, args, context) => {
-            // const result = db.categories.find(pd)
-            console.log(args);
+            const result = db.categories.find(category => category.id === args.categoryId);
+            console.log(result);
+            // console.log(args)
         }
     },
 };
