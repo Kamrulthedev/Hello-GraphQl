@@ -300,6 +300,13 @@ const reviews = [
         "productId": "591754e7-ac51-4712-b4c5-5dffc22fd8cf"
     },
     {
+        "id": "6b3c7582-099d-4813-9c08-314b87df5670",
+        "review": "Comfy t-shirt, perfect for everyday wear.",
+        "rating": 4,
+        "date": "2023-10-18T23:44:24.250+06:00",
+        "productId": "591754e7-ac51-4712-b4c5-5dffc22fd8cf"
+    },
+    {
         "id": "7b49b31c-6344-456a-9638-f01ff6f3c0e9",
         "review": "Classic jeans, good fit, and stylish!",
         "rating": 4,
