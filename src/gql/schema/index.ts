@@ -22,5 +22,4 @@ name : String
   product(productId: ID!): Product
   categories : [Category]
   category(categoryId : ID!): Category,
-  
 }`;
