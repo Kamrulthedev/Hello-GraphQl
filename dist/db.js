@@ -7,7 +7,12 @@ const products = [
         "price": 29.99,
         "quantity": 30,
         "onStock": true,
-        "categoryId": "4f7f61e5-96c2-445d-80fb-79f58e3d061b"
+        "categoryId": "4f7f61e5-96c2-445d-80fb-79f58e3d061b",
+        "reviews": [
+            {
+                "id": "bd23fdc4-0636-4199-ad18-7ca9870e855f"
+            }
+        ]
     },
     {
         "id": "73b8ca8b-ca88-483e-99ea-2fedaf2a1dc1",
@@ -198,7 +203,18 @@ const products = [
         "quantity": 60,
         "onStock": true,
         "categoruId": "6b1e0518-8e0d-48de-9c99-61251900ec134"
+    },
+    {
+        "id": "6b1e0518-8e0d-48de-9c99-61251900ec118",
+        "name": "Samsung Note Book",
+        "image": "samsung-note-book.image",
+        "description": "Note Book",
+        "price": 70.00,
+        "quantity": 30,
+        "onStock": true,
+        "categoruId": "6b1e0518-8e0d-48de-9c99-61251900ec24"
     }
+    // add more products as needed
 ];
 const categories = [
     {
@@ -240,6 +256,14 @@ const categories = [
     {
         "id": "2a089dca-d882-4305-9e25-d1dfeb93fd3",
         "name": "Fans"
+    },
+    {
+        "id": "2a089dca-d882-4305-9e25-d1dfeb93fd66",
+        "name": "Papers"
+    },
+    {
+        "id": "2a089dca-d882-4305-9e25-d1dfeb93fd645",
+        "name": "T-Sharts"
     }
 ];
 const reviews = [
@@ -291,6 +315,13 @@ const reviews = [
         "rating": 4,
         "date": "2023-10-18T23:44:24.250+06:00",
         "productId": "591754e7-ac51-4712-b4c5-5dffc22fd8cf"
+    },
+    {
+        "id": "6b3c7582-099d-4813-9c08-314b87df5671",
+        "review": "The Papers on the all on better.",
+        "rating": 4.5,
+        "date": "2023-10-18T23:44:24.250+06:00",
+        "productId": "591754e7-ac51-4712-b4c5-5dffc22fd8c32"
     },
     {
         "id": "7b49b31c-6344-456a-9638-f01ff6f3c0e9",
@@ -412,6 +443,20 @@ const reviews = [
     {
         "id": "2ca704cf-6d7d-4924-8580-74138e9e9ddrr",
         "review": "Watching for file change in the forget",
+        "reting": 4.5,
+        "date": "2023-10-24T23:44:24.253+06:00",
+        "productId": "2ca704cf-6d7d-4924-8580-74138e9e9ddbrres"
+    },
+    {
+        "id": "2ca704cf-6d7d-4924-8580-74138e9e934r4",
+        "review": "Watching for file change",
+        "reting": 4.5,
+        "date": "2023-10-24T23:44:24.253+06:00",
+        "productId": "2ca704cf-6d7d-4924-8580-74138e9e9ddbrres"
+    },
+    {
+        "id": "2ca704cf-6d7d-4924-8580-74138e9e93f3",
+        "review": "Watching for file change in the Werkers",
         "reting": 4.5,
         "date": "2023-10-24T23:44:24.253+06:00",
         "productId": "2ca704cf-6d7d-4924-8580-74138e9e9ddbrres"
