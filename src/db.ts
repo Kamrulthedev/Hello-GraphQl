@@ -205,14 +205,14 @@ const products = [
         "categoruId":"6b1e0518-8e0d-48de-9c99-61251900ec134"
     },
     {
-        "id":"6b1e0518-8e0d-48de-9c99-61251900ec187",
+        "id":"6b1e0518-8e0d-48de-9c99-61251900ec118",
         "name":"Samsung Note Book",
         "image":"samsung-note-book.image",
         "description":"Note Book",
-        "price":40.60,
-        "quantity":60,
+        "price":70.00,
+        "quantity":30,
         "onStock":true,
-        "categoruId":"6b1e0518-8e0d-48de-9c99-61251900ec134"
+        "categoruId":"6b1e0518-8e0d-48de-9c99-61251900ec24"
     }
 ];
 
