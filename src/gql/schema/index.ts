@@ -9,7 +9,7 @@ image : String
 description : String
 price : Float
 quantity : Int
-categoryId : String
+category : Category
 }
 
 type Category {
