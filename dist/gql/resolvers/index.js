@@ -10,4 +10,9 @@ export const resolvers = {
             return db.categories.find(category => category.id === args.categoryId);
         }
     },
+    Product: {
+        category: (parent, arge, context) => {
+            console.log("parent", parent.categoruId);
+        }
+    }
 };
