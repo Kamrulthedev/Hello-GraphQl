@@ -18,7 +18,8 @@ export const resolvers = {
     },
     Category: {
         products: (parent, args, context) => {
-            const result = db.products.filter(product => product.categoruId === parent.id);
+            console.log(parent.id);
+            const result = db.products.filter(product => product.categoryId === parent.id);
             return result || [];
         }
     }
