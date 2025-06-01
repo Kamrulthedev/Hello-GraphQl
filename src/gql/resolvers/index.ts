@@ -21,7 +21,7 @@ export const resolvers = {
     Category:{
         products : (parent, args, context) =>{
             const result = db.products.filter(product => product.categoruId === parent.id)
-            console.log("Category Products Resolver", result)
+              return result || []
         }
     }
 
