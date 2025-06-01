@@ -12,11 +12,10 @@ export const resolvers = {
             return db.categories.find(category => category.id === args.categoryId)
         }
     },
-    Product : {
-        category: (parent, args, context)=>{
-            console.log(parent.categoryId);
-            const result =  db.categories.find(category => category.id === parent.categoruId)
-            console.log(result)
+    Product: {
+        category: (parent, args, context) => {
+            const result = db.categories.find(category => category.id === parent.categoruId)
+            return result || null
         }
     }
 
