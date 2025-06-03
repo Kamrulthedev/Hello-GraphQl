@@ -40,6 +40,16 @@ const products = [
         "categoryId": "4f7f61e5-96c2-445d-80fb-79f58e3d061b"
     },
     {
+        "id": "2d1fd6b6-2c2b-423d-a8aa-15fc5bd723fg",
+        "name": "Running Shoes",
+        "image": "running-shoes-image.jpg",
+        "description": "Comfortable running shoes for your active lifestyle.",
+        "price": 49.99,
+        "quantity": 50,
+        "onStock": true,
+        "categoryId": "4f7f61e5-96c2-445d-80fb-79f58e3d061b"
+    },
+    {
         "id": "42ebd257-b37d-4751-96cd-f160c12a3c28",
         "name": "Smartphone",
         "image": "smartphone-image.jpg",
