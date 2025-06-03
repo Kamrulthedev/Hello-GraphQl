@@ -43,7 +43,7 @@ const products = [
         "id": "2d1fd6b6-2c2b-423d-a8aa-15fc5bd723fg",
         "name": "Boxing T-Shirt",
         "image": "boxing-t-shirt-image.jpg",
-        "description": "Comfortable running shoes for your active lifestyle.",
+        "description": "This is Best Boxing T-Shirt in the Our Bangladesh.",
         "price": 49.99,
         "quantity": 50,
         "onStock": true,
