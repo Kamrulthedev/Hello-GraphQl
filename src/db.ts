@@ -44,7 +44,7 @@ const products = [
         "name": "Boxing T-Shirt",
         "image": "boxing-t-shirt-image.jpg",
         "description": "This is Best Boxing T-Shirt in the Our Bangladesh.",
-        "price": 49.99,
+        "price": 55,
         "quantity": 50,
         "onStock": true,
         "categoryId": "4f7f61e5-96c2-445d-80fb-79f58e3d061b"
