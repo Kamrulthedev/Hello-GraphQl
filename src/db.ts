@@ -41,7 +41,7 @@ const products = [
     },
     {
         "id": "2d1fd6b6-2c2b-423d-a8aa-15fc5bd723fg",
-        "name": "Running Shoes",
+        "name": "Boxing T-Shirt",
         "image": "running-shoes-image.jpg",
         "description": "Comfortable running shoes for your active lifestyle.",
         "price": 49.99,
