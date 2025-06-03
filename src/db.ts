@@ -25,7 +25,7 @@ const products = [
         "categoryId": "4f7f61e5-96c2-445d-80fb-79f58e3d061b",
         "reviews":[
             {
-                "id": "Hi Wow"
+                "id": "4f7f61e5-96c2-445d-80fb-79f58e3d06453",
             }
         ]
     },
