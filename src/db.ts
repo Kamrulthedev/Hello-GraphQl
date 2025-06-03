@@ -3,7 +3,7 @@ const products = [
         "id": "2a089dca-d882-4305-9e25-d1dfeb93fd12",
         "name": "Basketball",
         "image": "basketball-image.jpg",
-        "description": "An official size basketball for both indoor and outdoor play.",
+        "description": "An official size basketball for both indoor and outdoor play. in the wold",
         "price": 29.99,
         "quantity": 30,
         "onStock": true,
