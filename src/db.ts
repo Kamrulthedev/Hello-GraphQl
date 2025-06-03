@@ -22,7 +22,12 @@ const products = [
         "price": 19.99,
         "quantity": 25,
         "onStock": true,
-        "categoryId": "4f7f61e5-96c2-445d-80fb-79f58e3d061b"
+        "categoryId": "4f7f61e5-96c2-445d-80fb-79f58e3d061b",
+        "reviews":[
+            {
+                "id": ""
+            }
+        ]
     },
     {
         "id": "2d1fd6b6-2c2b-423d-a8aa-15fc5bd7232d",
