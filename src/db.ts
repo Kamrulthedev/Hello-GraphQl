@@ -283,7 +283,7 @@ const categories = [
     },
     {
         "id": "2a069dca-d882-kf34320230-3423vdkajf",
-        "name" : ""
+        "name" : "Boxing T-Sharts"
     }
 ];
 
