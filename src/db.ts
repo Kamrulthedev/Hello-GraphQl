@@ -236,9 +236,9 @@ const products = [
     },
     {
         "id":"6b1e0518-8e0d-48de-9c99-61251900ec118",
-        "name":"Samsung Note Book",
-        "image":"samsung-note-book.image",
-        "description":"Note Book",
+        "name":"Boxing Dambell",
+        "image":"boxing-dambell.image",
+        "description":"Dambell for boxing",
         "price":70.00,
         "quantity":30,
         "onStock":true,
