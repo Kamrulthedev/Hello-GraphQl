@@ -288,6 +288,10 @@ const categories = [
     {
         "id": "2a069dca-d882-kf34320230-3423vdkaifj",
         "name" :"Boxing Pants"
+    },
+    {
+        "id": "2a069dca-d882-kf34320230-3423vdkaifj",
+        "name" :"Dambell"
     }
 ];
 
