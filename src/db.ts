@@ -248,7 +248,7 @@ const products = [
         "id":"6b1e0518-8e0d-48de-9c99-61251900ec267",
         "name":"Anderoid Phone",
         "image":"android-phone.image"
-
+        "description":"anderoid phone for your daily use"
     }
     // add more products as needed
 ];
