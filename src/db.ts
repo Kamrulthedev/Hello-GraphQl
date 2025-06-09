@@ -243,6 +243,10 @@ const products = [
         "quantity":30,
         "onStock":true,
         "categoruId":"6b1e0518-8e0d-48de-9c99-61251900ec24"
+    },
+    {
+        "id":"6b1e0518-8e0d-48de-9c99-61251900ec267"
+
     }
     // add more products as needed
 ];
