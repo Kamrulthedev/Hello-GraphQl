@@ -17,8 +17,8 @@ const products = [
     {
         "id": "2a089dca-d882-4305-9e25-d1dfeb93fd12",
         "name": "Damdell",
-        "image": "basketball-image.jpg",
-        "description": "An official size basketball for both indoor and outdoor play. in the wold",
+        "image": "dambell-image.jpg",
+        "description": "this is the best damdell in the world",
         "price": 29.99,
         "quantity": 30,
         "onStock": true,
