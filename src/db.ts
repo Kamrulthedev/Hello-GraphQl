@@ -519,7 +519,8 @@ const reviews = [
     ,
     {
         "id":"2ca704cf-56d7d-4924-8580-74138e909ddbrres",
-        ""
+        "review": "The Boxing Dambell is perfect for my workouts",
+        
     }
 ]
 
