@@ -317,6 +317,10 @@ const categories = [
     {
         "id": "2a069dca-d882-kf34320230-3423vdkaifj",
         "name" :"Brand Products"
+    },
+    {
+        "id":"2ca704cf-56d7d-4924-8580-74138e909d5aTag",
+        
     }
 ];
 
