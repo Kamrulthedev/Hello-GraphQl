@@ -522,6 +522,10 @@ const reviews = [
         "rating":4.5,
         "date":"2023-12-01T23:44:24.253+06:00",
         "productId":"d2d1fd6b8-2c2d-423d-a8aa-55fc5db73dka"
+    },
+    {
+        "id":"2ca704cf-56d7d-4924-8580-74138e909ddbrres",
+        "review":""
     }
 ]
 
