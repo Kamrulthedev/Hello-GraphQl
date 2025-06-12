@@ -320,7 +320,7 @@ const categories = [
     },
     {
         "id":"2ca704cf-56d7d-4924-8580-74138e909d5aTag",
-        
+        "name":"Honey is Best on the Our Body"
     }
 ];
 
