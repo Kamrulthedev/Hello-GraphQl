@@ -526,7 +526,8 @@ const reviews = [
     {
         "id":"2ca704cf-56d7d-4924-8580-74138e909ddbrres",
         "review":"Mobaile phone is very good",
-        "rating":4.5
+        "rating":4.5,
+        "date":"2023-12-01T23:44:24.243+06:00"
     }
 ]
 
