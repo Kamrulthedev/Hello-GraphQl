@@ -15,6 +15,21 @@ const products = [
         ]
     },
     {
+        "id": "2a089dca-d882-4305-9e25-d1dfeb93fd54",
+        "name": "Basketball",
+        "image": "basketball-image.jpg",
+        "description": "An official size basketball for both indoor and outdoor play.",
+        "price": 29.99,
+        "quantity": 30,
+        "onStock": true,
+        "categoryId": "4f7f61e5-96c2-445d-80fb-79f58e3d061b",
+        "reviews": [
+            {
+                "id": "bd23fdc4-0636-4199-ad18-7ca9870e855f"
+            }
+        ]
+    },
+    {
         "id": "73b8ca8b-ca88-483e-99ea-2fedaf2a1dc1",
         "name": "Football",
         "image": "football-image.jpg",
