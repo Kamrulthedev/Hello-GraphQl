@@ -15,21 +15,6 @@ const products = [
         ]
     },
     {
-        "id": "2a089dca-d882-4305-9e25-d1dfeb93fd54",
-        "name": "Basketball",
-        "image": "basketball-image.jpg",
-        "description": "An official size basketball for both indoor and outdoor play.",
-        "price": 29.99,
-        "quantity": 30,
-        "onStock": true,
-        "categoryId": "4f7f61e5-96c2-445d-80fb-79f58e3d061b",
-        "reviews": [
-            {
-                "id": "bd23fdc4-0636-4199-ad18-7ca9870e855f"
-            }
-        ]
-    },
-    {
         "id": "73b8ca8b-ca88-483e-99ea-2fedaf2a1dc1",
         "name": "Football",
         "image": "football-image.jpg",
@@ -168,66 +153,6 @@ const products = [
         "quantity": 20,
         "onStock": true,
         "categoryId": "97b84bd6-c11b-435f-8943-17dc97694451"
-    },
-    {
-        "id": "fa253321-b802-4f31-b727-80929b0699cd",
-        "name": "Fitness Tracker",
-        "image": "fitness-tracker-image.jpg",
-        "description": "A fitness tracker to monitor your health and activity.",
-        "price": 79.99,
-        "quantity": 30,
-        "onStock": true,
-        "categoryId": "1b6c2e31-2e03-4487-bedd-d1139c7e5571"
-    },
-    {
-        "id": "cd6f280e-4af5-404d-a3bc-79c0393823cf",
-        "name": "Winter Jacket",
-        "image": "winter-jacket-image.jpg",
-        "description": "A warm and stylish winter jacket for cold weather.",
-        "price": 69.99,
-        "quantity": 25,
-        "onStock": true,
-        "categoryId": "3b40b998-e38a-4cc4-b796-1fd2aea2567f"
-    },
-    {
-        "id": "6b1e0518-8e0d-48de-9c99-61251900ec18",
-        "name": "Coffee Maker",
-        "image": "coffee-maker-image.jpg",
-        "description": "A coffee maker to brew your favorite morning coffee.",
-        "price": 49.99,
-        "quantity": 20,
-        "onStock": true,
-        "categoryId": "97b84bd6-c11b-435f-8943-17dc97694451"
-    },
-    {
-        "id": "6b1e0518-8e0d-48de-9c99-61251900ec187",
-        "name": "Computer Market",
-        "image": "computer-market-image.png",
-        "description": "Computer Market to bow your commit",
-        "price": 60.99,
-        "quantity": 30,
-        "onStock": true,
-        "categoryId": "6b1e0518-8e0d-48de-9c99-61251900ec18"
-    },
-    {
-        "id": "6b1e0518-8e0d-48de-9c99-61251900ec187",
-        "name": "Note Book",
-        "image": "note-book.image",
-        "description": "Note Book",
-        "price": 40.60,
-        "quantity": 60,
-        "onStock": true,
-        "categoruId": "6b1e0518-8e0d-48de-9c99-61251900ec134"
-    },
-    {
-        "id": "6b1e0518-8e0d-48de-9c99-61251900ec118",
-        "name": "Samsung Note Book",
-        "image": "samsung-note-book.image",
-        "description": "Note Book",
-        "price": 70.00,
-        "quantity": 30,
-        "onStock": true,
-        "categoruId": "6b1e0518-8e0d-48de-9c99-61251900ec24"
     }
     // add more products as needed
 ];
