@@ -111,20 +111,6 @@ const reviews = [
         "rating": 5,
         "date": "2023-10-12T23:44:24.249+06:00",
         "productId": "42ebd257-b37d-4751-96cd-f160c12a3c28"
-    },
-    {
-        "id": "79865426-ddd8-455f-b5f8-b133b5662ded",
-        "review": "Excellent laptop for work and gaming.",
-        "rating": 4.5,
-        "date": "2023-10-15T23:44:24.250+06:00",
-        "productId": "d292ecd9-7eff-4891-aa12-8e8980f88b6b"
-    },
-    {
-        "id": "6b3c7582-099d-4813-9c08-314b87df5670",
-        "review": "Comfy t-shirt, perfect for everyday wear.",
-        "rating": 4,
-        "date": "2023-10-18T23:44:24.250+06:00",
-        "productId": "591754e7-ac51-4712-b4c5-5dffc22fd8cf"
     }
 ];
 export const db = {
