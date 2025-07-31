@@ -10,12 +10,21 @@ description : String
 price : Float
 quantity : Int
 category : Category
+reviews :[Review]
 }
 
 type Category {
 id : ID!
 name : String
 products : [Product]
+}
+
+type Review{
+id :String
+review : String
+rating:Float
+date : String
+productId :String
 }
 
  type Query {
