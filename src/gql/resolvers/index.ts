@@ -25,7 +25,6 @@ export const resolvers = {
         // reviews:(parent, args, context) =>{
         //    console.log("parent", parent);
         //    const reviews = db.reviews.filter(review => review.productId);
-
         //    return reviews.length > 0 ? reviews : "No Reviews Kamrul Bhai!!🤣🤣" }
 
 
