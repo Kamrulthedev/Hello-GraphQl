@@ -11,12 +11,12 @@ export const resolvers = {
         }
     },
     Product: {
-        category: (parent, args, context) => {
-            return db.categories.find(category => category.id === parent.categoruId);
+        category: ({ categoryId }, args, context) => {
+            return db.categories.find(category => category.id === categoryId);
         },
-        reviews: (parent, args, context) => {
-            console.log("parent", parent);
-            return db.reviews.filter(review => review.productId === parent.id) || [];
+        reviews: ({ id }, args, context) => {
+            console.log("parent", id);
+            return db.reviews.filter(review => review.productId === id) || [];
         }
         // Uncomment the following Line if you want to use the db.reviews directly
         // reviews:(parent, args, context) =>{
