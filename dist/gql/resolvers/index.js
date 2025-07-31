@@ -16,8 +16,9 @@ export const resolvers = {
         },
         reviews: (parent, args, context) => {
             console.log("parent", parent);
-            return db.reviews.filter(reviews => reviews.productId === parent.id) || [];
+            return db.reviews.filter(review => review.productId === parent.id) || [];
         }
+        // Uncomment the following Line if you want to use the db.reviews directly
         // reviews:(parent, args, context) =>{
         //    console.log("parent", parent);
         //    const reviews = db.reviews.filter(review => review.productId);
